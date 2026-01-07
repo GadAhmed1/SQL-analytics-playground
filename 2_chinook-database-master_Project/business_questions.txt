@@ -1,0 +1,22 @@
+Chinook SQL Analysis – Mini Project (10 Questions)
+## Basics
+
+1- Total Revenue
+2- Total Invoices
+3- Average Invoice Value
+
+## JOINs & Business Analysis
+
+1- Revenue by Country
+2- Top 5 Customers by Spending
+3- Revenue by Genre
+4- Top 5 Artists by Revenue
+
+## Time Analysis
+
+1- Monthly Revenue
+2- Best Sales Month
+
+## Customer Insight
+
+1- Who is the customer who spent the most money
