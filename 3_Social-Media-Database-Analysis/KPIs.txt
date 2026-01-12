@@ -1,0 +1,79 @@
+Social Media Addiction Analysis – Key KPIs & Insights
+====================================================
+
+1. Total Students
+- Total number of students in the dataset: 705
+
+2. Average Daily Social Media Usage
+- Average daily usage: 4.92 hours per day
+
+3. Students Distribution by Country
+- Top countries by number of students:
+  - India:  7.52%
+  - USA:    5.67%
+  - Canada: 4.82%
+
+4. Students Distribution by Gender
+- Female: 50.07%
+- Male:   49.93%
+
+5. Students Distribution by Academic Level
+- Undergraduate: 50.07%
+- Graduate:      46.10%
+- High School:   3.83%
+
+6. Most Used Social Media Platform
+- Most popular platform: Instagram
+- Usage percentage: 35.32%
+
+7. Usage vs Mental Health
+- There is a negative correlation between
+  daily usage hours and mental health score.
+- Higher usage is associated with worse mental health.
+
+8. Sleep Duration by Usage Level
+- Low usage: AVG 7.77 hours of sleep
+- Medium usage: AVG 7.99 hours of sleep
+- High usage: AVG 6.63 hours of sleep
+- Very High usage: AVG 5.54 hours of sleep
+
+9. Academic Performance Impact
+- Percentage of students reporting negative academic impact: 64.25%
+
+10. Top 5 Countries by Average Addiction Score
+1. Armenia – Avg score: 9
+2. USA – Avg score: 8.6
+3. UAE – Avg score: 8.125
+4. Andorra – Avg score: 8
+5. India – Avg score: 7.50
+
+11. Addiction Score by Academic Level
+- High School: Avg score 8.04
+- Graduate: Avg score 6.24
+- Undergraduate: Avg score 6.49
+
+12. High Usage & Poor Sleep
+- Percentage of students using social media > 5 hours/day
+  and sleeping < 6 hours/night: 18.58%
+
+13. TikTok vs Instagram Addiction
+- TikTok users average addiction score: 7.429
+- Instagram users average addiction score: 6.554
+- Conclusion: TikTok users are more addicted than Instagram users.
+
+14. Addiction Score vs Social Conflicts
+- There is a strong  relationship between
+  addiction score and number of conflicts caused by social media.
+- Higher addiction leads to more conflicts.
+
+15. Student Segmentation (Usage & Addiction)
+- Low usage:       0%
+- Medium usage:    29%
+- High usage:      55%
+- Very High usage: 15%
+
+----------------------------------------------------
+Overall Insight:
+Excessive social media usage is strongly linked to higher addiction
+scores, poorer sleep quality, increased conflicts, and negative
+academic performance.
