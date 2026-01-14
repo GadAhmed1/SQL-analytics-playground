@@ -1,0 +1,152 @@
+IMDB TOP 1000 DATABASE – Key KPIs & Insights
+==========================================
+
+1. Total Movies
+----------------
+- Total number of movies in the dataset: 1000
+
+
+2. Average IMDb Rating
+----------------------
+- Average IMDb rating across all movies: 7.95
+
+
+3. Top 5 Highest Rated Movies
+-----------------------------
+(Top-rated movies with release year)
+
+- The Shawshank Redemption (1994) – Rating: 9.3
+- The Godfather (1972) – Rating: 9.2
+- The Godfather: Part II (1974) – Rating: 9.0
+- 12 Angry Men (1957) – Rating: 9.0
+- The Dark Knight (2008) – Rating: 9.0
+
+
+4. Average Runtime per Genre
+-----------------------------
+(Average movie duration by genre)
+
+- Biography, Drama, Thriller: 130.33 min
+- Action, Comedy, Fantasy: 96.00 min
+- Adventure, Drama, Musical: 224.00 min
+
+
+5. Movies Distribution by Certificate
+--------------------------------------
+(Number of movies per age certificate)
+
+- U  : 234 movies
+- A  : 197 movies
+- UA : 175 movies
+- R  : 146 movies
+
+
+6. Top 5 Genres by Average IMDb Rating
+---------------------------------------
+(Minimum 10 movies per genre)
+
+- Crime, Drama: 8.16
+- Action, Adventure, Drama: 8.15
+- Drama, War: 8.07
+- Biography, Drama, History: 8.02
+- Drama: 7.98
+
+
+7. Top 5 Movies by Gross Revenue
+--------------------------------
+(Highest grossing movies)
+
+- Star Wars: Episode VII – The Force Awakens: 936,662,225
+- Avengers: Endgame: 858,373,000
+- Avatar: 760,507,625
+- Avengers: Infinity War: 678,815,482
+- Titanic: 659,325,379
+
+
+8. Average Gross Revenue per Release Year
+------------------------------------------
+(Average revenue by year)
+
+- 2019: 150,421,418
+- 2018: 186,268,383
+- 2017: 103,065,642
+
+
+9. Top 5 Directors by Number of Movies
+---------------------------------------
+(Directors with most movies in the dataset)
+
+- Alfred Hitchcock: 14 movies
+- Steven Spielberg: 13 movies
+- Hayao Miyazaki: 11 movies
+- Akira Kurosawa: 10 movies
+- Martin Scorsese: 10 movies
+
+
+10. Average IMDb Rating per Director
+-------------------------------------
+(Highest average rated directors)
+
+- Frank Darabont: 8.95
+- Irvin Kershner: 8.70
+- Lana Wachowski: 8.70
+
+
+11. Movies Above Average Rating & Votes
+----------------------------------------
+(Movies with IMDb rating and votes above dataset average)
+
+- The Shawshank Redemption
+- The Godfather
+- The Dark Knight
+
+
+12. Most Profitable Genres
+---------------------------
+(Genres with highest average gross revenue)
+
+- Family, Sci-Fi: 435,110,554
+- Action, Adventure, Fantasy: 352,723,505
+- Action, Adventure, Family: 301,959,197
+- Action, Adventure, Sci-Fi: 280,888,545
+- Adventure, Fantasy: 280,685,211
+
+
+13. Movies Rated Above Their Genre Average
+-------------------------------------------
+(Top movies outperforming their genre average)
+
+- The Shawshank Redemption – Drama – 9.3
+- The Godfather – Crime, Drama – 9.2
+- The Godfather: Part II – Crime, Drama – 9.0
+- 12 Angry Men – Crime, Drama – 9.0
+- The Dark Knight – Action, Crime, Drama – 9.0
+
+
+14. Directors with Multiple Movies Rated Above 8
+-------------------------------------------------
+(Directors with more than one highly rated movie)
+
+- Akira Kurosawa: 9 movies
+- Christopher Nolan: 7 movies
+- Ingmar Bergman: 7 movies
+
+
+15. Movies with Runtime Above Overall Average
+----------------------------------------------
+(Movies longer than the dataset average runtime)
+
+- Gangs of Wasseypur – Action, Comedy, Crime – 321 min
+- Hamlet – Drama – 242 min
+- Gone with the Wind – Drama, History, Romance – 238 min
+- Once Upon a Time in America – Crime, Drama – 229 min
+
+
+--------------------------------------------------
+Overall Insight:
+The IMDb Top 1000 dataset shows a strong relationship between
+genre, director influence, runtime, and commercial success.
+High-rated movies are often associated with experienced directors,
+specific genres (Drama & Crime), and above-average runtimes,
+while blockbuster revenues are dominated by action and fantasy genres.
+--------------------------------------------------
