@@ -1,0 +1,104 @@
+15 SQL KPIs & Analysis Questions – Ride Booking Dataset
+=================================================
+
+1) Total Bookings
+Calculate the total number of bookings in the dataset.
+- 150000
+
+2) Completed vs Incomplete Ratio
+Calculate the percentage of completed, incomplete, and cancelled bookings.
+"Completed"	62.00	93000
+"Non_Completed"	38.00	57000
+
+
+3) Revenue Analysis
+Calculate total booking value and average booking value per ride.
+51846183	508.30
+
+4) Revenue by Vehicle Type
+Calculate total revenue and average revenue per Vehicle Type.
+"Auto"	12878422	506.73
+"Bike"	7837697	510.20
+"eBike"	3618485	503.90
+"Go Mini"	10338496	507.68
+"Go Sedan"	9369719	511.50
+"Premier Sedan"	6275332	509.57
+"Uber XL"	1528032	501.82
+
+
+
+5) Peak Time Analysis
+Find the top 5 peak booking hours based on number of rides.
+18	12397
+19	11047
+17	11044
+16	9633
+20	9630
+
+
+6) Cancellation Rate by Customer
+Calculate cancellation rate caused by customers vs drivers.
+"Cancelled by Customer"	10500	7.00
+"Cancelled by Driver"	27000	18.00
+
+7) Top Cancellation Reasons
+Find the top 5 most common cancellation reasons (Customer AND Driver).
+CUSTOMER
+"Wrong Address"	2362
+"Change of plans"	2353
+"Driver is not moving towards pickup location"	2335
+"Driver asked to cancel"	2295
+"AC is not working"	1155
+DRIVER
+"Customer related issue"	6837
+"The customer was coughing/sick"	6751
+"Personal & Car related issues"	6726
+"More than permitted people in there"	6686
+
+8) Driver Performance KPI
+Calculate average Driver Ratings per Vehicle Type (ignore NULLs).
+"Uber XL"	4.24
+"Bike"	4.23
+"eBike"	4.23
+"Auto"	4.23
+"Go Sedan"	4.23
+"Premier Sedan"	4.23
+"Go Mini"	4.23
+
+9) Customer Satisfaction KPI
+Calculate average Customer Rating per Payment Method.
+"UPI"	4.40
+"Cash"	4.41
+"Credit Card"	4.41
+"Debit Card"	4.41
+"Uber Wallet"	4.41
+
+
+10) No Driver Found Analysis
+Calculate percentage of rides where Booking Status = 'No Driver Found'.
+"No Driver Found"	7.00
+
+
+11) Distance vs Value Analysis
+Find average Booking Value per distance range:
+(0–5 km, 5–10 km, 10+ km).
+
+12) Incomplete Rides Root Cause
+Find the most common reason for incomplete rides and its percentage.
+
+13) Payment Method Preference
+Calculate number of rides and total revenue per Payment Method.
+
+14) Location Intelligence
+Find top 5 Pickup Locations by total booking value.
+
+15) Advanced KPI – Efficiency Score
+Create a KPI:
+Efficiency Score = (Ride Distance / Avg CTAT)
+and find top 10 most efficient rides.
+
+-------------------------------------------------
+Notes:
+- Use proper NULL handling.
+- Use GROUP BY, HAVING, CASE WHEN, CTEs where needed.
+- Time-based questions require extracting HOUR from Time column.
