@@ -82,23 +82,48 @@ Calculate percentage of rides where Booking Status = 'No Driver Found'.
 11) Distance vs Value Analysis
 Find average Booking Value per distance range:
 (0–5 km, 5–10 km, 10+ km).
+"long"	509.50
+"short"	505.11
+"medium"	502.16
 
 12) Incomplete Rides Root Cause
 Find the most common reason for incomplete rides and its percentage.
+"Customer Demand"	2.03
+"Other Issue"	1.97
+"Vehicle Breakdown"	2.01
+
 
 13) Payment Method Preference
 Calculate number of rides and total revenue per Payment Method.
+"UPI"	23345101
+"Cash"	12895649
+"Uber Wallet"	6200898
+"Credit Card"	5224025
+"Debit Card"	4180510
+
+
 
 14) Location Intelligence
 Find top 5 Pickup Locations by total booking value.
+"Barakhamba Road"	341154
+"Khandsa"	338502
+"Subhash Chowk"	329386
+"Pataudi Chowk"	328572
+"Badarpur"	327193
+
 
 15) Advanced KPI – Efficiency Score
 Create a KPI:
 Efficiency Score = (Ride Distance / Avg CTAT)
 and find top 10 most efficient rides.
+"CNR3177816"	3.3200000000000000
+"CNR8170634"	3.2953333333333333
+"CNR6929154"	3.2927152317880795
+"CNR6390557"	3.2861842105263158
+"CNR9856976"	3.2768211920529801
+"CNR5227072"	3.2754966887417219
+"CNR7401745"	3.2679738562091503
+"CNR6940607"	3.2671052631578947
+"CNR7688244"	3.2629139072847682
+"CNR6399446"	3.2598684210526316
 
--------------------------------------------------
-Notes:
-- Use proper NULL handling.
-- Use GROUP BY, HAVING, CASE WHEN, CTEs where needed.
-- Time-based questions require extracting HOUR from Time column.
