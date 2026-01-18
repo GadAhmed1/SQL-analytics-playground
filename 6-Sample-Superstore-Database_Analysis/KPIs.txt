@@ -1,0 +1,61 @@
+🏬 Superstore Sales Analysis – KPIs & Business Questions
+📊 Analysis Questions (15 سؤال)
+
+How many total orders are in the dataset?
+9994
+What is the total sales and total profit of the superstore?
+2297200.86	286397.02
+What is the average order value (AOV)?
+229.86
+Which product category generates the highest sales?
+"Technology"	836154.033
+"Furniture"	741999.7953
+"Office Supplies"	719047.032
+
+Which sub-category generates the highest profit?
+"Copiers"	55617.8249
+"Phones"	44515.7306
+"Accessories"	41936.6357
+"Paper"	34053.5693
+"Binders"	30221.7633
+"Chairs"	26590.1663
+"Storage"	21278.8264
+"Appliances"	18138.0054
+
+
+Which sub-category causes the highest losses?
+"Tables"	-17725.4811
+"Bookcases"	-3472.5560
+"Supplies"	-1189.0995
+"Fasteners"	949.5182
+"Machines"	3384.7569
+"Labels"	5546.2540
+"Art"	6527.7870
+"Envelopes"	6964.1767
+
+What is the sales and profit distribution by region?
+"South"	"391721.91$   |   17.05%"	"46749.43$   |   16.32%"
+"West"	"725457.82$   |   31.58%"	"108418.45$   |   37.86%"
+"East"	"678781.24$   |   29.55%"	"91522.78$   |   31.96%"
+"Central"	"501239.89$   |   21.82%"	"39706.36$   |   13.86%"
+
+Which customer segment is the most profitable?
+"Consumer"	134119.21	"46.83 %"
+"Corporate"	91979.13	"32.12 %"
+"Home Office"	60298.68	"21.05 %"
+
+What is the average discount applied per category?
+"Furniture"	0.17
+"Office Supplies"	0.16
+"Technology"	0.13
+Is there a relationship between discount level and profit?
+
+Which states generate the highest sales?
+
+Which states generate the highest losses?
+
+What are the top 10 products by sales?
+
+What shipping mode is most frequently used?
+
+How does delivery time (Ship Date – Order Date) impact profit?
