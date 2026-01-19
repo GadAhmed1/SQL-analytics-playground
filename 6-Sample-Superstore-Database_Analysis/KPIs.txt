@@ -1,18 +1,30 @@
-🏬 Superstore Sales Analysis – KPIs & Business Questions
-📊 Analysis Questions (15 سؤال)
+15 SQL KPIs & Analysis Questions – Superstore Sales Dataset
+==========================================================
 
-How many total orders are in the dataset?
-9994
-What is the total sales and total profit of the superstore?
+1) Total Orders
+Calculate the total number of orders in the dataset.
+- 9994
+
+
+2) Total Sales & Total Profit
+Calculate the total sales and total profit.
 2297200.86	286397.02
-What is the average order value (AOV)?
+
+
+3) Average Order Value (AOV)
+Calculate the average order value.
 229.86
-Which product category generates the highest sales?
+
+
+4) Sales by Category
+Find the total sales per product category.
 "Technology"	836154.033
 "Furniture"	741999.7953
 "Office Supplies"	719047.032
 
-Which sub-category generates the highest profit?
+
+5) Profit by Sub-Category (Top Profitable)
+Find the sub-categories with the highest profit.
 "Copiers"	55617.8249
 "Phones"	44515.7306
 "Accessories"	41936.6357
@@ -23,7 +35,8 @@ Which sub-category generates the highest profit?
 "Appliances"	18138.0054
 
 
-Which sub-category causes the highest losses?
+6) Loss by Sub-Category (Highest Losses)
+Find the sub-categories with the highest losses.
 "Tables"	-17725.4811
 "Bookcases"	-3472.5560
 "Supplies"	-1189.0995
@@ -33,29 +46,79 @@ Which sub-category causes the highest losses?
 "Art"	6527.7870
 "Envelopes"	6964.1767
 
-What is the sales and profit distribution by region?
+
+7) Sales & Profit by Region
+Calculate sales and profit distribution by region.
 "South"	"391721.91$   |   17.05%"	"46749.43$   |   16.32%"
 "West"	"725457.82$   |   31.58%"	"108418.45$   |   37.86%"
 "East"	"678781.24$   |   29.55%"	"91522.78$   |   31.96%"
 "Central"	"501239.89$   |   21.82%"	"39706.36$   |   13.86%"
 
-Which customer segment is the most profitable?
+
+8) Most Profitable Customer Segment
+Find the most profitable customer segment.
 "Consumer"	134119.21	"46.83 %"
 "Corporate"	91979.13	"32.12 %"
 "Home Office"	60298.68	"21.05 %"
 
-What is the average discount applied per category?
+
+9) Average Discount by Category
+Calculate the average discount applied per category.
 "Furniture"	0.17
 "Office Supplies"	0.16
 "Technology"	0.13
-Is there a relationship between discount level and profit?
 
-Which states generate the highest sales?
 
-Which states generate the highest losses?
+10) Discount vs Profit Analysis
+Analyze the relationship between discount level and profit.
+"medium"	-35817.47	-77.86
+"very high"	-70614.40	-98.35
+"high"	-28944.19	-134.62
+"low"	100785.47	26.50
+"No discount"	320987.60	66.90
 
-What are the top 10 products by sales?
 
-What shipping mode is most frequently used?
+11) Top States by Sales
+Find the states with the highest total sales.
+"California"	457687.6315
+"New York"	310876.271
+"Texas"	170188.0458
+"Washington"	138641.270
 
-How does delivery time (Ship Date – Order Date) impact profit?
+
+12) Top States by Losses
+Find the states with the highest total losses.
+"Texas"	-25729.36
+"Ohio"	-16971.38
+"Pennsylvania"	-15559.96
+
+
+13) Top 10 Products by Sales
+Find the top 10 products based on sales value.
+"TEC-CO-10004722"	61599.824
+"OFF-BI-10003527"	27453.384
+"TEC-MA-10002412"	22638.48
+"FUR-CH-10002024"	21870.576
+"OFF-BI-10001359"	19823.479
+"OFF-BI-10000545"	19024.500
+"TEC-CO-10001449"	18839.686
+"TEC-MA-10001127"	18374.895
+"OFF-BI-10004995"	17965.068
+"OFF-SU-10000151"	17030.312
+
+
+14) Shipping Mode Usage
+Find the most frequently used shipping modes.
+"Standard Class"	5968
+"Second Class"	1945
+"First Class"	1538
+"Same Day"	543
+
+
+15) Delivery Time Impact on Profit
+Analyze how delivery time affects profit.
+"short"	35.62	60659.34
+"long"	27.29	92009.17
+"no days"	29.65	15385.97
+"very long"	32.74	20331.85
+"medium"	25.94	98010.69
