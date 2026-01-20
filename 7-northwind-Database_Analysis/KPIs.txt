@@ -1,0 +1,33 @@
+KPI Questions - Northwind Database
+
+1.  What is the total number of orders in the system?
+
+2.  What is the total revenue generated from all orders?
+
+3.  How many unique customers have placed at least one order?
+
+4.  What is the average order value?
+
+5.  Which product has the highest total sales revenue?
+
+6.  Who are the top 5 customers by total spending?
+
+7.  Which employee handled the highest number of orders?
+
+8.  What is the monthly revenue trend (grouped by year and month)?
+
+9.  Which country generates the highest total revenue?
+
+10. What is the average delivery time in days for orders?
+
+11. Which supplier provides the highest number of sold products?
+
+12. What percentage of orders were shipped late (after required date)?
+
+13. Which category has the lowest average product price?
+
+14. What is the customer retention rate (customers who ordered more than
+    once)?
+
+15. Which employee generated the highest total revenue from their
+    handled orders?
