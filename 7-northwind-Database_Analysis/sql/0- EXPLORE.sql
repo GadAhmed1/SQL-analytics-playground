@@ -11,4 +11,6 @@ SELECT * FROM public.shippers;
 SELECT * FROM public.suppliers;
 SELECT * FROM public.territories;
 SELECT * FROM public.us_states;
--- #########################################
+SELECT * FROM public.customer_customer_demo;
+
+-- #####################################

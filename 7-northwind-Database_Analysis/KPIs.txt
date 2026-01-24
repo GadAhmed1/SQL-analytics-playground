@@ -1,33 +1,110 @@
-KPI Questions - Northwind Database
+# 15 SQL KPIs & Analysis Questions – Northwind PSQL Dataset
 
-1.  What is the total number of orders in the system?
+1. Total Orders
+   Calculate the total number of orders in the dataset.
 
-2.  What is the total revenue generated from all orders?
+* 9994
 
-3.  How many unique customers have placed at least one order?
+2. Total Sales & Total Profit
+   Calculate the total sales and total profit.
+   2297200.86	286397.02
 
-4.  What is the average order value?
+3. Average Order Value (AOV)
+   Calculate the average order value.
+   229.86
 
-5.  Which product has the highest total sales revenue?
+4. Sales by Category
+   Find the total sales per product category.
+   "Technology"	836154.033
+   "Furniture"	741999.7953
+   "Office Supplies"	719047.032
 
-6.  Who are the top 5 customers by total spending?
+5. Profit by Sub-Category (Top Profitable)
+   Find the sub-categories with the highest profit.
+   "Copiers"	55617.8249
+   "Phones"	44515.7306
+   "Accessories"	41936.6357
+   "Paper"	34053.5693
+   "Binders"	30221.7633
+   "Chairs"	26590.1663
+   "Storage"	21278.8264
+   "Appliances"	18138.0054
 
-7.  Which employee handled the highest number of orders?
+6. Loss by Sub-Category (Highest Losses)
+   Find the sub-categories with the highest losses.
+   "Tables"	-17725.4811
+   "Bookcases"	-3472.5560
+   "Supplies"	-1189.0995
+   "Fasteners"	949.5182
+   "Machines"	3384.7569
+   "Labels"	5546.2540
+   "Art"	6527.7870
+   "Envelopes"	6964.1767
 
-8.  What is the monthly revenue trend (grouped by year and month)?
+7. Sales & Profit by Region
+   Calculate sales and profit distribution by region.
+   "South"	"391721.91$ | 17.05%"	"46749.43$ | 16.32%"
+   "West"	"725457.82$ | 31.58%"	"108418.45$ | 37.86%"
+   "East"	"678781.24$ | 29.55%"	"91522.78$ | 31.96%"
+   "Central"	"501239.89$ | 21.82%"	"39706.36$ | 13.86%"
 
-9.  Which country generates the highest total revenue?
+8. Most Profitable Customer Segment
+   Find the most profitable customer segment.
+   "Consumer"	134119.21	"46.83 %"
+   "Corporate"	91979.13	"32.12 %"
+   "Home Office"	60298.68	"21.05 %"
 
-10. What is the average delivery time in days for orders?
+9. Average Discount by Category
+   Calculate the average discount applied per category.
+   "Furniture"	0.17
+   "Office Supplies"	0.16
+   "Technology"	0.13
 
-11. Which supplier provides the highest number of sold products?
+10. Discount vs Profit Analysis
+    Analyze the relationship between discount level and profit.
+    "medium"	-35817.47	-77.86
+    "very high"	-70614.40	-98.35
+    "high"	-28944.19	-134.62
+    "low"	100785.47	26.50
+    "No discount"	320987.60	66.90
 
-12. What percentage of orders were shipped late (after required date)?
+11. Top States by Sales
+    Find the states with the highest total sales.
+    "California"	457687.6315
+    "New York"	310876.271
+    "Texas"	170188.0458
+    "Washington"	138641.270
 
-13. Which category has the lowest average product price?
+12. Top States by Losses
+    Find the states with the highest total losses.
+    "Texas"	-25729.36
+    "Ohio"	-16971.38
+    "Pennsylvania"	-15559.96
 
-14. What is the customer retention rate (customers who ordered more than
-    once)?
+13. Top 10 Products by Sales
+    Find the top 10 products based on sales value.
+    "TEC-CO-10004722"	61599.824
+    "OFF-BI-10003527"	27453.384
+    "TEC-MA-10002412"	22638.48
+    "FUR-CH-10002024"	21870.576
+    "OFF-BI-10001359"	19823.479
+    "OFF-BI-10000545"	19024.500
+    "TEC-CO-10001449"	18839.686
+    "TEC-MA-10001127"	18374.895
+    "OFF-BI-10004995"	17965.068
+    "OFF-SU-10000151"	17030.312
 
-15. Which employee generated the highest total revenue from their
-    handled orders?
+14. Shipping Mode Usage
+    Find the most frequently used shipping modes.
+    "Standard Class"	5968
+    "Second Class"	1945
+    "First Class"	1538
+    "Same Day"	543
+
+15. Delivery Time Impact on Profit
+    Analyze how delivery time affects profit.
+    "short"	35.62	60659.34
+    "long"	27.29	92009.17
+    "no days"	29.65	15385.97
+    "very long"	32.74	20331.85
+    "medium"	25.94	98010.69
