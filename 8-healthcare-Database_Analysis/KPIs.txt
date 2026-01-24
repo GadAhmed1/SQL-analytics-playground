@@ -1,0 +1,103 @@
+# 15 SQL KPIs & Analysis Questions – Hospital Dataset
+
+1. Total Patients
+   EN: What is the total number of patients in the dataset?
+   55500
+
+2. Total Billing Amount
+   EN: What is the total billing amount generated?
+   1417432043.40
+
+3. Average Billing per Patient
+   EN: What is the average billing amount per patient?
+   25539.32
+
+4. Patients by Gender
+   EN: How many patients are there by gender?
+   "Female" 27726 49.96
+   "Male" 27774 50.04
+
+5. Patients by Age Group
+   EN: How are patients distributed across age groups?
+   "Teen" 888 1.60
+   "Old" 23696 42.70
+   "Average age" 15580 28.07
+   "Adult" 15336 27.63
+
+6. Most Common Medical Conditions
+   EN: What are the most frequent medical conditions?
+   "Arthritis" 9308
+   "Diabetes" 9304
+   "Hypertension" 9245
+   "Obesity" 9231
+   "Cancer" 9227
+   "Asthma" 9185
+
+7. Patients by Blood Type
+   EN: How are patients distributed by blood type?
+   "B+" 6945 12.51
+   "O-" 6877 12.39
+   "AB-" 6945 12.51
+   "AB+" 6947 12.52
+   "O+" 6917 12.46
+   "A+" 6956 12.53
+   "B-" 6944 12.51
+   "A-" 6969 12.56
+
+8. Admissions by Hospital
+   EN: How many patients were admitted to each hospital?
+   "and Myers Martin Glover," 2
+   "Henson Smith Lester, and" 1
+   "Smith-Thomas" 2
+   "Booker, Juarez and Barnes" 1
+   "Sons and Robles" 1
+   "Parker Sons and" 6
+
+9. Admissions by Doctor
+   EN: How many patients were treated by each doctor?
+   "Erin Young" 1
+   "Emily Weber" 1
+   "Ms. Sara Watts" 1
+   "Heather Tyler" 1
+   "Holly Schmidt" 1
+   "Jenny Flores" 1
+
+10. Average Length of Stay
+    EN: What is the average length of stay for patients?
+    15.51
+
+11. Admissions by Admission Type
+    EN: How many patients were admitted by each admission type (Emergency, Routine, Elective)?
+    "Elective" 18655 33.61
+    "Urgent" 18576 33.47
+    "Emergency" 18269 32.92
+
+12. Revenue by Insurance Provider
+    EN: What is the total billing amount per insurance provider?
+    "Blue Cross" 283254294.21
+    "Aetna" 278863102.95
+    "Cigna" 287139345.27
+    "UnitedHealthcare" 282454542.84
+    "Medicare" 285720758.13
+
+13. Top Medications Prescribed
+    EN: Which medications are prescribed most frequently?
+    "Lipitor" 11140
+    "Ibuprofen" 11127
+    "Aspirin" 11094
+    "Paracetamol" 11071
+    "Penicillin" 11068
+
+14. Test Results Summary
+    EN: How many tests were performed and what are the key results?
+    "Abnormal" 18627 33.56
+    "Inconclusive" 18356 33.07
+    "Normal" 18517 33.36
+
+15. Discharges by Month
+    EN: How many patients were discharged each month?
+    "2020-1" 946
+    "2021-12" 969
+    "2024-4" 875
+    "2020-6" 954
+    "2020-2" 882
