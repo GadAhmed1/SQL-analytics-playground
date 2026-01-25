@@ -1,0 +1,119 @@
+# 15 SQL KPIs & Analysis Questions – Bank Marketing Dataset
+
+1. Total Customers
+   Calculate the total number of customers in the dataset.
+
+* 45212
+
+
+2. Customers by Age Group
+   Analyze customer distribution across age groups.
+
+"old"        20.47    9255
+"adult"      15.55    7030
+"Average age" 63.98   28926
+
+
+3. Customers by Job Type
+   Calculate the number of customers per job type.
+
+"retired"        2264
+"housemaid"      1240
+"admin."         5171
+"management"     9458
+"blue-collar"    9732
+"entrepreneur"   1487
+"services"       4154
+
+
+4. Customers by Marital Status
+   Analyze customers by marital status.
+
+"single"     12790
+"divorced"   5207
+"married"    27214
+
+
+5. Customers by Education Level
+   Calculate the number of customers per education level.
+
+"secondary"   23202
+"primary"     6851
+"unknown"     1857
+"tertiary"    13301
+
+
+6. Customers with Credit Default
+   Find how many customers have a credit default.
+
+* 815
+
+
+7. Customers by Balance Range
+   Analyze customer distribution by account balance.
+
+"Low"      45147
+"Medium"   57
+"High"     7
+
+
+8. Customers with Housing Loan
+   Calculate the number of customers with housing loans.
+
+* 25130
+
+
+9. Customers with Personal Loan
+   Calculate the number of customers with personal loans.
+
+* 7245
+
+
+10. Customers by Contact Communication Type
+    Analyze customer contact methods.
+
+"cellular"    29285
+"unknown"     13020
+"telephone"   2906
+
+
+11. Customers by Last Contact Day
+    Analyze the number of customers contacted per day.
+
+"1"   322
+"2"   1293
+"3"   1079
+"4"   1445
+"5"   1910
+
+
+12. Average Duration of Last Contact
+    Calculate the average duration of the last contact (seconds).
+
+* 258.16
+
+
+13. Campaign Effectiveness
+    Analyze campaign contacts and successful subscriptions.
+
+"8"     540     32
+"12"    155     4
+"10"    266     14
+
+
+14. Previous Campaign Contacts
+    Analyze previous campaign outcomes.
+
+"1"     "failure"   1707
+"1"     "other"     591
+"1"     "success"   473
+"1"     "unknown"   1
+"10"    "failure"   28
+"10"    "other"     19
+
+
+15. Subscription Outcome
+    Analyze customer subscription results.
+
+Subscribed (Yes):    5289
+Not Subscribed (No): 39923
