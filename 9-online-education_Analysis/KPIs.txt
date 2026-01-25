@@ -1,0 +1,166 @@
+15 SQL KPIs & Analysis Questions – E-Learning Dataset
+
+---
+
+Total Students
+EN: What is the total number of students in the dataset?
+AR: ما هو إجمالي عدد الطلبة في قاعدة البيانات؟
+1205
+
+---
+
+Students by Gender
+EN: How many students are there by gender?
+AR: كم عدد الطلبة حسب الجنس؟
+
+"Girl"   44.98   542
+"Boy"    55.02   663
+
+---
+
+Students by Age Group
+EN: How are students distributed across age groups?
+AR: كيف يتم توزيع الطلبة حسب الفئات العمرية؟
+
+"6-10"   4.23    51
+"16-20"  23.07   278
+"1-5"    6.72    81
+"11-15"  29.29   353
+"26-30"  5.64    68
+"21-25"  31.04   374
+
+---
+
+Students by Education Level
+EN: How many students belong to each education level?
+AR: كم عدد الطلبة حسب المستوى التعليمي؟
+
+"School"      43.98   530
+"College"     18.17   219
+"University"  37.84   456
+
+---
+
+Students by Institution Type
+EN: How many students are from government vs non-government institutions?
+AR: كم عدد الطلبة من المؤسسات الحكومية وغير الحكومية؟
+
+"Non Government"   68.30   823
+"Government"       31.70   382
+
+---
+
+IT Students vs Non-IT Students
+EN: How many students are IT students vs non-IT students?
+AR: كم عدد الطلبة المتخصصين في تكنولوجيا المعلومات مقابل غير المتخصصين؟
+
+"IT Students"       25.23   304
+"Non-IT Students"   74.77   901
+
+---
+
+1. Students by Location (Advanced)
+
+EN:
+Which location has the highest number of students with high adaptivity level, and what percentage do they represent of that location?
+
+AR:
+ما هو الموقع الذي يحتوي على أكبر عدد من الطلبة ذوي مستوى التكيف العالي؟ وكم تمثل نسبتهم من إجمالي الطلبة في هذا الموقع؟
+
+"Yes"   92
+"No"    8
+
+---
+
+Students by Load-Shedding Frequency
+EN: How many students experience low, medium, or high load-shedding?
+AR: كم عدد الطلبة الذين يعانون من انقطاع الكهرباء بدرجات منخفضة أو متوسطة أو عالية؟
+
+"High"   16.68   201
+"Low"    83.32   1004
+
+---
+
+Financial Condition vs Adaptivity Level
+
+EN:
+How does financial condition affect students’ adaptivity level? Compare the percentage of high adaptivity students in each financial group.
+
+AR:
+كيف يؤثر الوضع المالي على مستوى تكيف الطلبة؟ قارن نسبة الطلبة ذوي التكيف العالي في كل فئة مالية.
+
+"Poor"   22
+"Rich"   42
+"Mid"    36
+
+---
+
+5. Network Type (Advanced)
+
+EN:
+Do students using 4G or 5G networks attend longer classes on average than students using 3G?
+
+AR:
+هل الطلبة الذين يستخدمون شبكات 4G أو 5G يحضرون حصصًا أطول في المتوسط مقارنة بمستخدمي 3G؟
+
+---
+
+LMS Usage
+EN: How many students use self-learning management systems (LMS)?
+AR: كم عدد الطلبة الذين يستخدمون أنظمة إدارة التعلم الذاتي؟
+
+210
+
+---
+
+Adaptivity Level Distribution
+EN: How are students distributed by adaptivity level (Low, Moderate, High)?
+AR: كيف يتم توزيع الطلبة حسب مستوى التكيف مع التعلم (منخفض، متوسط، مرتفع)؟
+
+"High"      8.30    100
+"Moderate"  51.87   625
+"Low"       39.83   480
+
+---
+
+Internet Type by Adaptivity Level
+
+EN:
+How many students use each internet type (Wifi / Mobile Data) for each adaptivity level?
+
+AR:
+كم عدد الطلبة لكل نوع إنترنت (واي فاي / بيانات هاتف) حسب مستوى التكيف؟
+
+"Mobile Data"   57.68   695
+"Wifi"          42.32   510
+
+---
+
+3. Average Class Duration by Device
+
+EN:
+What is the average class duration for each device type (Mobile, Tablet, Laptop)?
+
+AR:
+ما هو متوسط مدة الحصص لكل نوع جهاز (موبايل، تابلت، لابتوب)؟
+
+"Mobile"    1.82
+"Computer"  2.36
+"Tab"       2.83
+
+---
+
+4. Load-shedding vs Class Duration
+
+EN:
+What is the average class duration for each load-shedding level (Low, Medium, High)?
+
+AR:
+ما هو متوسط مدة الحصص لكل مستوى من مستويات انقطاع الكهرباء (منخفض، متوسط، مرتفع)؟
+
+"Low"   1.89
+"High"  2.06
+
+---
+
+End of Report
