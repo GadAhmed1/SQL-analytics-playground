@@ -70,6 +70,7 @@ Below are the **10 practical projects** created while applying the course materi
 | 8 | **Healthcare** | 🏥 Medical | Data Cleaning, Patient Records Management | [View Code](https://github.com/GadAhmed1/SQL-analytics-playground/tree/main/8-healthcare-Database_Analysis) |
 | 9 | **Online Education** | 🎓 EdTech | Student Performance Metrics, Progress Tracking | [View Code](https://github.com/GadAhmed1/SQL-analytics-playground/tree/main/9-online-education_Analysis) |
 |10 | **Banking System** | 🏦 Finance | Transaction Flow, Fraud Detection Patterns | [View Code](https://github.com/GadAhmed1/SQL-analytics-playground/tree/main/10-banking_Analysis) |
+|11 | **Cafe** | ☕️ Food & Beverage | Sales Analysis, Customer Insights, Inventory Tracking | [View Code](https://github.com/GadAhmed1/SQL-analytics-playground/tree/main/11-Cafe_Analysis) |
 
 ---
 

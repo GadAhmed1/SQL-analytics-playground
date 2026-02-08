@@ -1,0 +1,58 @@
+# 12 SQL KPIs & Analysis Questions – Transactions Dataset
+
+1. Display all Transactions
+   Return all the data as it is.
+   (List of all transaction rows...)
+
+2. Display all Transactions sorted by newest first
+   Sort the data by Transaction Date in descending order.
+   (Sorted list by Date DESC...)
+
+3. Total Sales (Total Revenue)
+   Calculate the sum of Total Spent for all transactions.
+   82408.86
+
+4. Total Number of Transactions
+   Calculate the total number of orders in the dataset.
+   9741
+
+5. Most Sold Product by Quantity
+   Get the most sold product by quantity.
+   "juice"	1499
+
+6. Product Generating Most Revenue
+   Get the product that generated the most revenue.
+   "sandwich"	13484.00
+   "juice"	13324.00
+   "smoothie"	13132.00
+
+7. Average Price Per Unit
+   Get the average price per unit for each product.
+   "salad"	4.89
+   "sandwich"	3.96
+   "smoothie"	3.95
+   "cake"	3.00
+
+8. High Value Transactions (> 10)
+   Display all Transactions with Total Spent greater than 10.
+   "TXN_4977031"	"cake"	4.00	3.00	12.00	"2023-05-16"
+   "TXN_2602893"	"smoothie"	5.00	4.00	20.00	"2023-03-31"
+   "TXN_6699534"	"sandwich"	4.00	4.00	16.00	"2023-10-28"
+
+9. Best Selling Day
+   Get the day with the highest total sales.
+   "Day 6"	7251.00
+
+10. Comprehensive Product Report
+    For each Item, return Total quantity, Total revenue, Avg price.
+    "coffee"	1165	7184.00	6.17
+    "sandwich"	1131	13484.00	11.92
+    "cake"	1139	10341.00	9.08
+
+11. Least Sold Product
+    Find the product with the lowest total quantity sold.
+    "error"	2364.50
+
+12. Average Transaction Value
+    Calculate the average Total Spent per transaction.
+    8.46
